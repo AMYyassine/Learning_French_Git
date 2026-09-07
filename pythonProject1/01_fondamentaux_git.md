@@ -60,6 +60,8 @@ mini-projet-data/
 ├── README.md
 ├── analyse.py
 └── donnees.txt
+
+note : si vous cherchez à cachez les fichiers et dossiers importants comme le fichiers ENV vous pouvez utilisez le fichier qui se trouve dans .git/info/exlude et ajouter les fichier à exlure mais les personnes qui vont pull(charger)votre projet dans leurs local ne vont pas avoir la même exlusion ils doivent le faire manuellement eux aussi
 ```
 
 Le dossier `git-collaboration-labs` contient la documentation pédagogique. Le dossier `mini-projet-data` est le dépôt d'entraînement. Il est créé séparément afin d'éviter un dépôt Git imbriqué dans un autre.
