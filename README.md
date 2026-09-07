@@ -1,6 +1,6 @@
 # Git Collaboration Labs
 
-Projet pédagogique progressif consacré à Git local, à la synchronisation avec GitHub et à la collaboration. Les manipulations sont conçues pour **Windows**, **Visual Studio Code** et **Git Bash**.(si vous utiliser **Mac ou Linux** cherchez équivalent en commande pour le git bash je pense c'est la même chose)
+Projet pédagogique progressif consacré à Git local, à la synchronisation avec GitHub et à la collaboration. Les manipulations sont conçues pour **Windows**, **Visual Studio Code** et **Git Bash**.
 
 ## Objectif du projet
 
@@ -45,7 +45,7 @@ git-collaboration-labs/
     └── 04_collaboration_github.md
 ```
 
-Seuls le présent `README.md` et le Lab 1 sont créés au début. Les autres fichiers seront ajoutés après validation progressive des exercices.
+Les fichiers sont ajoutés progressivement. Chaque nouveau laboratoire reprend l'état obtenu dans le précédent afin de former une histoire cohérente autour de `mini-projet-data`.
 
 ## Les quatre laboratoires
 
@@ -105,10 +105,7 @@ Elles peuvent supprimer des modifications ou réécrire un historique partagé. 
 - [x] Structure et règles générales définies
 - [x] Lab 1 — Fondamentaux de Git en local préparé
 - [ ] Lab 1 — Exercice exécuté et validé
-- [ ] Lab 2 — Dépôt distant et synchronisation
+- [x] Lab 2 — Dépôt distant et synchronisation préparé
+- [ ] Lab 2 — Exercice exécuté et validé
 - [ ] Lab 3 — Branches, fusions et conflits
 - [ ] Lab 4 — Collaboration professionnelle sur GitHub
-
-
-## Note Importante ! 
-**Je peux me tromper dans si vous avez des doutes faites votre recherche sur une partie précise!,  :)**
