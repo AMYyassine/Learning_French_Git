@@ -104,8 +104,8 @@ Elles peuvent supprimer des modifications ou réécrire un historique partagé. 
 
 - [x] Structure et règles générales définies
 - [x] Lab 1 — Fondamentaux de Git en local préparé
-- [ ] Lab 1 — Exercice exécuté et validé
+- [x] Lab 1 — Exercice exécuté et validé
 - [x] Lab 2 — Dépôt distant et synchronisation préparé
-- [ ] Lab 2 — Exercice exécuté et validé
-- [ ] Lab 3 — Branches, fusions et conflits
-- [ ] Lab 4 — Collaboration professionnelle sur GitHub
+- [x] Lab 2 — Exercice exécuté et validé
+- [x] Lab 3 — Branches, fusions et conflits
+- [x] Lab 4 — Collaboration professionnelle sur GitHub
